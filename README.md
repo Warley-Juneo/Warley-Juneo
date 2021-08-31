@@ -1,17 +1,19 @@
-### <h4>Hi there 👋, my name is Warley Santos, Student 42 school !!</h4>
+### <h4>Hi there 👋, my name is Warley Santos, 42 school camper !!</h4>
 
 ## GIFF
 <div>
-    <a display="flex" height= 400px; justify-content= "center" overflow= "hidden" >
-    <img flex= "none" width= 105%; height= 110%; src="https://64.media.tumblr.com/a1f4ca79f1dda991ad7c38bc637c0a4f/b3619d81d66fbedf-4e/s540x810/d2395d752da516149a77bf1380752ff22b0a6de5.gifv" />
+    <a display="flex" height= 400px; justify-content= "center" overflow= "hidden">
+    <img flex= "none" width= 45%; height= 60%; src="https://media.giphy.com/media/12KDixncjK6l7G/giphy.gif?cid=ecf05e47rme0ngyzywbpzdrnlidk8klu2zmh1sx9tx4xabid&rid=giphy.gif&ct=g" />
     </a>
 </div>
 
- <div>
+<div>
   <a href="https://github.com/warley-juneo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=warley-juneo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warley-juneo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
