@@ -1,5 +1,6 @@
-### <h4>Hi there 👋, my name is Warley Santos, 42 school Cadete !!</h4>
-
+### <h4>Hi there 👋, my name is Warley Santos, Engineering student</h4>
+- 🚀 I’m currently studying Software Engineering at [42 São Paulo](https://www.42sp.org.br/)!
+📫 How to reach me: my e-mail: warleyjuneo111@gmail.com, or my [linkedin](https://www.linkedin.com/in/warley-juneo/). My Discord username is `wjuneo-f | Warley#4440`
 ## GIFF
 <div>
     <a display="flex" height= 400px; justify-content= "center" overflow= "hidden">
