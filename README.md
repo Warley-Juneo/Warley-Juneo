@@ -13,6 +13,7 @@
   <img align="center" alt="dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dev-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="dev-CSS" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  <img aling="center" alt="dev-C++" height="30" width="40" src="https://icons8.com.br/icon/40669/c%2B%2B">
 </div>
   
   ##
