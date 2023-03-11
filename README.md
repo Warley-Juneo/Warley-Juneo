@@ -40,4 +40,4 @@ Achievement🥇
  </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warley-juneo&layout=compact&theme=onedark)](https://github.com/warley-juneo)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warley-juneo&layout=compact&theme=onedark)](https://github.com/warley-juneo)
