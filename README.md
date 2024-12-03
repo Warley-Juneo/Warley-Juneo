@@ -21,23 +21,5 @@
 </div>
 
 </br>
-Achievement🥇 
- <div>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" ></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
-  <a href="https://github.com/Warley-Juneo/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
- </div>
- 
- </br>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warley-juneo&layout=compact&theme=onedark)](https://github.com/warley-juneo)
